@@ -1,5 +1,18 @@
 [
 	{
+		"title": "svelte-keybinds",
+		"url": "https://github.com/ThaUnknown/svelte-keybinds",
+		"description": "Minimalistic keybinds interface, with rebinding and saving.",
+		"npm": "svelte-keybinds",
+		"addedOn": "2022-05-04",
+		"category": "User Interaction",
+		"tags": [
+			"animations",
+			"interactions"
+		],
+		"stars": 0
+	}
+	{
 		"title": "svelte-lazy-loader",
 		"url": "https://github.com/sawyerclick/svelte-lazy-loader",
 		"description": "A lazy-loader component library for Svelte",
